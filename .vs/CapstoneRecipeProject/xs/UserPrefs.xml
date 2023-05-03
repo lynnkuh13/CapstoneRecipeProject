@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8A796565-A75A-4695-ABF1-16559724352D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CapstoneRecipeProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CapstoneRecipeProject/RecipeOperations.cs">
+    <Files>
+      <File FileName="CapstoneRecipeProject/Program.cs" />
+      <File FileName="CapstoneRecipeProject/Category.cs" />
+      <File FileName="CapstoneRecipeProject/RecipeOperations.cs" Line="451" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CapstoneRecipeProject" expanded="True">
+            <Node name="CapstoneRecipeProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="RecipeOperations.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
